@@ -1,0 +1,43 @@
+Spring roo
+use STS Dashbroad
+
+zk
+use Marketplace --> key find "zk studio"
+
+Maven
+use folder zip
+
+JBoss tools 4.5.1 Final(Hibernate)
+http://download.jboss.org/jbosstools/oxygen/stable/updates/
+
+PHP Development Tools
+http://download.eclipse.org/tools/pdt/updates/5.0
+and Check update in Help menu/Checks for update
+
+DBeaver 4.2.4
+https://dbeaver.jkiss.org/update/latest
+
+UML Designer **Use This
+https://s3-eu-west-1.amazonaws.com/obeo-umldesigner-releases/8.0.0/repository/
+
+Jaspersoft Studio 6.4.3
+http://jasperstudio.sourceforge.net/updates/
+or
+https://sourceforge.net/projects/jasperstudio/files/updatesite/6.4.3/
+
+
+Web Tool Platform
+http://download.eclipse.org/webtools/updates/
+and 
+Oxygen - http://download.eclipse.org/releases/oxygen
+
+
+===Spare plugin
+ModelGoon UML4Java 4.4.1
+http://modelgoon.org.update
+
+ObjectAid UML Explorer 1.2
+http://www.objectaid.com/update/current
+
+==Download GitHub on Desktop
+https://desktop.github.com/
